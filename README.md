@@ -19,6 +19,11 @@ This website is an application for a company using Search Engine Optimization, a
 1. Open a browser (Chrome, Safari, Mozilla, etc.)
 2. Direct to the following link (https://fomin2000.github.io/horiseonsocialsolutionservices/)
 
+![websiteScreenshot](./assets/images/horiseonScreenShot.png)
+
+## Website Link
+https://fomin2000.github.io/horiseonsocialsolutionservices/
+
 ## Credits
 
 Made with ❤️️ by Horiseon
